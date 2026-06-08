@@ -1,0 +1,14 @@
+[
+  {
+    "name":"Gaming Mouse",
+    "price":1200,
+    "category":"Electronics",
+    "image":"images/p1.jpg"
+  },
+  {
+    "name":"T-Shirt Premium",
+    "price":699,
+    "category":"Fashion",
+    "image":"images/p2.jpg"
+  }
+]
